@@ -1,0 +1,32 @@
+# Dataset (büyük dosyalar)
+chest_xray/
+*.zip
+*.tar.gz
+
+# Trained models
+*.mat
+trained_model/
+*.onnx
+
+# MATLAB Auto-save & Backup
+*.asv
+*.m~
+*.mex*
+slprj/
+sccprj/
+codegen/
+
+# MATLAB Live Script backups
+*.mlx.bak
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
